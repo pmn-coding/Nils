@@ -22,3 +22,6 @@ while not x >= range2:
         zeile = c*' ' + "x"
         print("|", zeile)
     x += step
+#ACHTUNG VERFÄNGT SICH IN DAUERSCHLEIFE.
+#PROGRAMM NICHT FERIG.
+#BIS JETZT NUR VERSUCH DIE SCHRITTWEITE EINZUBAUEN.
